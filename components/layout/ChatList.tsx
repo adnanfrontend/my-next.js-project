@@ -17,7 +17,7 @@ export default function ChatList() {
       <section className="w-full md:w-70 md:min-w-70 border-r border-[#D8DEE4] flex flex-col bg-white h-full shrink-0">
 
         {/* HEADER */}
-        <div className="flex items-center justify-between py-[16.55px] px-[22.33px] border-b border-[#D8DEE4]">
+        <div className="flex items-center justify-between py-[16px] px-[22.33px] border-b border-[#D8DEE4]">
 
           <div className="flex items-center gap-2">
 

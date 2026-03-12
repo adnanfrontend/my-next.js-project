@@ -5,7 +5,7 @@ export default function DetailsPanel() {
     <aside className="hidden xl:flex w-[340px] min-w-[340px] bg-white flex-col border-l border-[#E5E7EB] shrink-0">
 
       {/* HEADER */}
-      <div className="px-[24px] py-[16px] border-b border-[#E5E7EB] flex items-center justify-between">
+      <div className="px-[24px] py-[21px] border-b border-[#E5E7EB] flex items-center justify-between">
 
         <h3 className="font-[656] text-[12.63px] leading-[100%] tracking-[0%] text-[#000000]">
           Details
