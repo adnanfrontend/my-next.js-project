@@ -14,7 +14,7 @@ export default function ChatList() {
         <Sidebar isOpen={sidebarOpen} onClose={() => setSidebarOpen(false)} />
       </div>
 
-      <section className="w-full md:w-[249px] md:min-w-[249px] border-r border-[#D8DEE4] flex flex-col bg-white h-full shrink-0">
+      <section className="w-full md:w-70 md:min-w-70 border-r border-[#D8DEE4] flex flex-col bg-white h-full shrink-0">
 
         {/* HEADER */}
         <div className="flex items-center justify-between py-[16.55px] px-[22.33px] border-b border-[#D8DEE4]">
